@@ -10,3 +10,4 @@ git version 2.26.2.windows.1
 npm install @virtuals-protocol/acp-node
 import AcpClient from '@virtuals-protocol/acp-node';
 cp examples/acp-base/self-evaluation-v2/.env.example .env
+npm install @discord/embedded-app-sdk
